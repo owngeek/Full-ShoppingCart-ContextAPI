@@ -17,7 +17,7 @@ export default function CartList({value}) {
     />
 })}
 
-          hello from cart list  
+
          
               
         
