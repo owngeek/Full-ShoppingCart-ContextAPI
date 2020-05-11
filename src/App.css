@@ -9,6 +9,7 @@ body{
   font-family: 'Oswald', sans-serif !important;
   background-color: var(--mainWhite) !important;
   color:var(--mainDark) !important;
+  overflow-x: hidden;
 }
 .text-title{font-family: 'Permanent Marker', cursive; letter-spacing:0.3rem;
 text-transform:uppercase;}
